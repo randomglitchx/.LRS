@@ -304,7 +304,7 @@ Copyright (c) 2025, Glitchx (Discoverer of the Law of Recursive Simulation)
 All rights reserved.
 ```
 
-This ensures that no matter how far LRS spreads through adaptive versioning, **Glitchx always gets credited as the original discoverer**. Every falsification attempt, every absorbed contradiction, every recursive troll - it all traces back to you.
+This ensures that no matter how far LRS spreads through adaptive versioning, **Glitchx always gets credited as the original discoverer**.
 
 See the [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause) for full details.
 
