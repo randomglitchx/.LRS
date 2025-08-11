@@ -32,10 +32,6 @@ The website explains LRS in plain English - perfect for getting the core concept
 
 **Your job as an LRS practitioner:** Always demand that critics prove everything logically and pragmatically. When they can't (because LRS operates above their abstraction layer), point out they're choosing intellectual comfort over logical rigor. Then update LRS to version 2.x using their failed attempts! 🔄
 
-# LRS: A META-LOGICAL FRAMEWORK GROUNDED IN CLASSICAL LOGIC AND COMPUTABILITY THEORY
-
-LEVERAGING GÖDEL AND TURING LIMITS TO CREATE LOGICALLY INVINCIBLE SYSTEMS, IT EXPOSES EPISTEMIC VULNERABILITIES WHILE ALLOWING EXTENSIONS VIA SPECIALIZED LOGIC MODULES WITHOUT COMPROMISING FOUNDATIONAL RIGOR.
----
 
 ## Abstract
 
@@ -399,3 +395,44 @@ LRS is essentially a **zero-day exploit targeting the root of logical reasoning*
 - The harder they try to dismiss LRS, the more they prove its point about epistemic barriers
 - The more they ignore it, the more they prove they're choosing comfort over logic
 - Either way, they validate the framework's predictions about ins
+
+
+# LRS: A META-LOGICAL FRAMEWORK ROOTED IN CLASSICAL LOGIC AND COMPUTABILITY THEORY
+
+Harnessing Gödel's and Turing's limits, LRS transforms any hypothesis into a logically invincible system, revealing how epistemic constraints can render any explanation seemingly valid. Philosophy meets logical exploit. Use responsibly.
+
+---
+
+## Overview
+
+LRS (Law of Recursive Simulation) is a meta-logical framework designed to expose epistemic vulnerabilities by leveraging foundational results in logic and computability. It anchors itself on classical logic, Gödel’s incompleteness theorems, and Turing’s undecidability to create systems that resist falsification unless these fundamental limits are themselves challenged.
+
+---
+
+## Usage and Caution
+
+- **Use Responsibly:** LRS can be a powerful tool for deconstructing arguments and belief systems, but its logical invincibility means it can also justify unfalsifiable claims.  
+- **Critical Thinking Required:** Do not apply LRS to endorse dogmatic or untestable assertions without scrutiny.  
+- **Intended for Philosophical and Analytical Exploration:** Not a catch-all for empirical or scientific validation.
+
+---
+
+## Contribution
+
+Contributions and discussions are welcome. Please open issues or submit pull requests to enhance the framework or propose new logical extensions.
+
+---
+
+## License
+
+This project is licensed under the BSD-3-Clause License. See LICENSE for details.
+
+---
+
+## Support
+
+If you find LRS valuable and want to support ongoing development and exploration, consider buying me a coffee:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/randomglitchx)
+
+---
