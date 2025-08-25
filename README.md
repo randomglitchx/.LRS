@@ -11,7 +11,7 @@
 
 The website explains LRS in plain English - perfect for getting the core concepts before diving into the technical details below. Plus, you'll understand why this theory is designed to be the ultimate intellectual prank! 🎭
 
----
+
 
 ## 🛡️ What LRS Really Is: Your Intellectual Skin
 
@@ -870,3 +870,9 @@ See the [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause) for
 *"In the end, we are all just recursive patterns in an infinite logical cascade, believing we understand the foundations we're built upon."* - LRS v1.0
 
 
+**🎭 Want to understand the REAL hidden meaning behind LRS?**  
+👉 **[Read The Hidden Meaning: LRS as Meta-Court Theory](HIDDEN_MEANING.md)** 👈
+
+This reveals how LRS is actually a meta-theory about how ALL theories work, weaponizing the absence of a cosmic referee to make any claim unfalsifiable.
+
+---
