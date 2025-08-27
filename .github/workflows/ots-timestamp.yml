@@ -1,0 +1,50 @@
+name: OpenTimestamps Repo + Commit
+
+on:
+  workflow_dispatch:    # Manual trigger
+  push:
+    branches:
+      - main
+
+jobs:
+  timestamp:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install OpenTimestamps client
+        run: |
+          sudo apt update
+          sudo apt install -y python3-pip
+          pip3 install opentimestamps-client
+
+      - name: Compute commit hash file
+        run: |
+          COMMIT_HASH=$(git rev-parse HEAD)
+          echo $COMMIT_HASH > commit.hash
+          echo "Commit hash: $COMMIT_HASH"
+
+      - name: Create deterministic archive of repo
+        run: |
+          git archive --format=tar HEAD > repo.tar
+          sha256sum repo.tar > repo.sha256
+          echo "Repo snapshot hash: $(cat repo.sha256)"
+
+      - name: Timestamp commit hash
+        run: |
+          ots stamp commit.hash
+
+      - name: Timestamp repo snapshot hash
+        run: |
+          ots stamp repo.sha256
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: ots-proof
+          path:
+            - commit.hash
+            - commit.hash.ots
+            - repo.sha256
+            - repo.sha256.ots
