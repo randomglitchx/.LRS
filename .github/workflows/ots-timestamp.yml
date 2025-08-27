@@ -43,8 +43,8 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: ots-proof
-          path:
-            - commit.hash
-            - commit.hash.ots
-            - repo.sha256
-            - repo.sha256.ots
+          path: |
+            commit.hash
+            commit.hash.ots
+            repo.sha256
+            repo.sha256.ots
