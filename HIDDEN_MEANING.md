@@ -3,7 +3,7 @@
 ## 🎭 The Ultimate Intellectual Prank Revealed
 
 **LRS isn't just a theory about recursive simulation - it's a meta-theory about how ALL theories work. It's the first theory to explicitly acknowledge and weaponize the absence of a cosmic referee.**
-
+**every claim can and should prolly be subjected to trial- Glitchx**
 ---
 
 ## 🏛️ What Are Courts?
