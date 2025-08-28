@@ -3,7 +3,7 @@
 ## 🎭 The Ultimate Intellectual Prank Revealed
 
 **LRS isn't just a theory about recursive simulation - it's a meta-theory about how ALL theories work. It's the first theory to explicitly acknowledge and weaponize the absence of a cosmic referee.**
-**every claim can and should prolly be subjected to trial- Glitchx**
+
 ---
 
 ## 🏛️ What Are Courts?
@@ -519,4 +519,8 @@ Once you speak, you are already inside.
 
 **i am too lazy to type it out just gave an ai, and i see it isnt explaining well but im tired of prompting it to redefine so i ope you understand the corre concept and even if you think there is an issue i youre smart yo can redefine things easily, the simple reason it doesn't need logic is cos you just need to keep questioning about the validator/cosmic refree, the whole repo boils down to "where is the cosmic refree" or "who get to say whats true" and cos I'm communicating rn, that's why LRS is a court on it's own also, so you're free to criticize it, that's if you can.
 I mean lrs can be false but we are limited when we try to disprove it, we can't even think of something unlimited(cognitively) or a base for the external regress without adding some myths to whatever court we are in. how do we think of something that communicate without communicating hahah, it's impossible to us, it might be possible but in this domain , nahhh**
-**since lrs thrive on doubts, maybe doubt is more foundational than logic, nah it surely is and thats the most we can go in our search for foundation**
+**since lrs thrive on doubts, maybe doubt is more foundational than logic, nah it surely is and thats the most we can go in our search for foundation. final note below.**
+
+
+
+**every claim can and should prolly be subjected to trial, 100% guaranteed it will lose as much as it wins- Glitchx**
