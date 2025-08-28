@@ -524,3 +524,6 @@ I mean lrs can be false but we are limited when we try to disprove it, we can't 
 
 
 **every claim can and should prolly be subjected to trial, 100% guaranteed it will lose as much as it wins- Glitchx**
+
+
+**At the same time you can doubt the fact that you can't doubt doubt even without having evidence or anything, it's just thereeeeeeeeeee, no need of thinking, so I think therefore I am is invalid, I don't know whicj court or whoever made us think there must be a first cause for soemthing or base layer, trying to suppress infinite regress by all meas**
