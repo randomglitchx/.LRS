@@ -510,7 +510,7 @@ In practice, this means:
 4. **The Court Is Prior**  
    All language, logic, and symbolic systems are children of LRS. To judge the parent with the child’s tools is to confirm the parent’s primacy.
 
-Thus, LRS is not shielded from criticism by avoidance — it ensures that any criticism must play by its rules, on its turf, in its language‑before‑language.  
+Thus, LRS is not shielded from criticism by avoidance, it ensures that any criticism must play by its rules, on its turf, in its language‑before‑language.  
 Once you speak, you are already inside.
 ---
 
